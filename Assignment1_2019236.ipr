@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+      <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+        <Languages>
+          <language minSize="55" name="Java" />
+        </Languages>
+      </inspection_tool>
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="prans">
+      <words>
+        <w>numdays</w>
+      </words>
+    </dictionary>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment1_2019236.iml" filepath="$PROJECT_DIR$/Assignment1_2019236.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
